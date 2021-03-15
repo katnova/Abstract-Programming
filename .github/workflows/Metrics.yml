@@ -16,7 +16,7 @@ jobs:
 
           # Options
           user: Abstract-Programming
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Denver
           plugin_achievements: yes
