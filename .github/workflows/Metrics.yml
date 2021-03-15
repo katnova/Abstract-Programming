@@ -12,7 +12,7 @@ jobs:
       - uses: Abstract-Programming/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC }}
 
           # Options
           user: Abstract-Programming
