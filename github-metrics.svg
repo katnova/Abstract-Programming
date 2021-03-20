@@ -2279,8 +2279,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#2f53243</div>
-                        <div class="message">Added index route</div>
+                        <div class="sha">#70eeb09</div>
+                        <div class="message">Updated CROSS headers</div>
                       </div>
                     
                   </div>
@@ -2305,7 +2305,7 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 2 commits in <div class="repo">Abstract-Programming/storage-wpcs</div>
+                    Pushed 2 commits in <div class="repo">Abstract-Programming/wpcs.xyz</div>
                   </div>
                   <div class="details">
                     
@@ -2313,47 +2313,15 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#01c5923</div>
-                        <div class="message">Added ejs views</div>
+                        <div class="sha">#82ec288</div>
+                        <div class="message">Added loading remote modules from storage server.
+
+Signed-off-by: Abstract-Programming &lt;admin@abstracprogramming.org&gt;</div>
                       </div>
                     
                       <div class="commit">
-                        <div class="sha">#250d1f5</div>
-                        <div class="message">Added ejs views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">Abstract-Programming/storage-wpcs</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#27a069f</div>
-                        <div class="message">srv dev</div>
+                        <div class="sha">#18416c8</div>
+                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
                       </div>
                     
                   </div>
@@ -2386,8 +2354,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#4a13235</div>
-                        <div class="message">ficed serv dev</div>
+                        <div class="sha">#373a4a9</div>
+                        <div class="message">Added test module</div>
                       </div>
                     
                   </div>
@@ -2420,8 +2388,42 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#9d89360</div>
-                        <div class="message">Added test for certs</div>
+                        <div class="sha">#6523363</div>
+                        <div class="message">Added pm2 monit</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">Abstract-Programming/storage-wpcs</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#ae1a2bc</div>
+                        <div class="message">Fixed cert paths</div>
                       </div>
                     
                   </div>
@@ -2500,7 +2502,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="160.89953257646818 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="160.91749433751903 329"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#2088FF" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#2088FF" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#79B8FF" cx="16.5" cy="2.057" r="1"/><circle stroke="#79B8FF" cx="14.5" cy="12.057" r="1"/><circle stroke="#79B8FF" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -2735,7 +2737,7 @@
           
             <span>These metrics include private contributions, timezone America/Denver</span>
           
-          <span>Last updated Sat, 20 Mar 2021 04:18:38 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Sat, 20 Mar 2021 05:16:02 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
