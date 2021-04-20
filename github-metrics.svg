@@ -2680,7 +2680,7 @@ Improperly place return statements preventing the loading of unverified external
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.39310325382101 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.40177387105211 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3020,7 +3020,7 @@ Improperly place return statements preventing the loading of unverified external
                     These metrics include private contributions, timezone America/Denver
                 </span>
                 <span>
-                    Last updated Tue, 20 Apr 2021 05:07:26 GMT with lowlighter/metrics@3.7.0
+                    Last updated Tue, 20 Apr 2021 06:06:56 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
