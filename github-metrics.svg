@@ -2399,7 +2399,7 @@
         </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIABwAHAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP73Zftly4NpOogFzhmx0AHzDPXaDzjpz60AUNT8RaXplx9jvH3EWpvb0DDLp+mKAjanqpIXy4g6bRkEjHPYgA0v3HM8N7+WOf69PagCRQWGftsQ/wCuWNn8+vrQBFEZZLXyooMYHUXeevvjP9KAPzS/ap/Zw+A/7R3jPXfAHxLm03/hJ7o+BV8PaAPHei+GdR17VlL+ZpOih/DzeKV/4RbQF0XxQR4Vd5Qz5kJbcQAfoL4dXxAulHTpdHi0a303+z7TSWudWTUDeaaiBN7/ANjFAjBVCJkgMDkgoCQAXry3Zni+1T28dwLeMSr9s1bG7LHK7c8HPf5s5z2oA64D5WPrjH51FRXg16fmiaK1v32+5nwz8XPgj8SPEHx9+FXxW+HWreF/Dnh/wtqGmXPxEtpdW1jQ9W8cLpCa7okWkNJougXImkHh/XgWnmaTzToaeE5USzk8xfCxFCU53W2l9Utkl3T2XReWr393D1kqUqclzOTbS5VNK+t2pc0XabuuZvdSdo6r7a/0yZv4baED23f/AKj+X519AeISxWVuiAeUvv1/xoAuEZ4NJq+jGnbVHPi3xbfa/OuPtBG3zPMBOMehXb+lS6cHuvxf+ZSnJdd/JP8ANGpsb/ntN/32P/iasg5mW5vjNOv2+fEcrRr+6svugAjP+ideTQB//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIABwAHAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP72JPtdy6NaTqIBcNuOOwHI9cA9B7+tPeWnV6feLFq1u9tf/Jf+CfnN+05/wVL/AGWP2V/jZ4B+AnxDuviJrvj3xxreh6fq7fDvwTJ438NfCyDX9Yg0jRtc+NOq29wg+HWggsfEfnXS/aE8IQ3HjD7O1jJFNK2/ed/Pppf/ACv8+u4YRX/p3+1t/Xltc/RLTNV0rW9OsNZ0LXIdQ07U7UXOlanbXq32m30bD76FWKOOf4GBHzDh1K1IzTUFhn7bEP8ArljZ/Pr60AVYTK9qsccOBgji6yR174J5/KmlfRCxm/8AX90/Mj9qT9nT4B/tFeMtd8BfEebToNfvb3wFe+H9APjzRvDGqeJvEy6vI3/EoD6BJ4o3x+HkXxDL/wAInI7eaSzYAbaPf+v613DB/wDD/dM/RTw6viBdKOnS6PFo1vpv9n2mktc6smoG801ECb3/ALGKBGCqETJAYHJBQEhDL15bszxfap7eO4FvGJV+2atjdljldueDnv8ANnOe1AHXAfKx9cY/OoqK8GvT80TRWt++33M+Gfi58EfiR4g+Pvwq+K3w61bwv4c8P+FtQ0y5+IltLq2saHq3jhdITXdEi0hpNF0C5E0g8P68C08zSeadDTwnKiWcnmL4WIoSnO620vqlsku6ey6Ly1e/u4eslSlTkuZybaXKppX1u1Lmi7Td1zN7qTtHVfbX+mTN/DbQge27/wDUfy/OvoDxCWKyt0QDyl9+v+NAFwjPBpNX0Y07ao58W+Lb7X51x9oI2+Z5gJxj0K7f0qXTg91+L/zKU5Lrv5J/mjU2N/z2m/77H/xNWQczLc3xmnX7fPiOVo1/dWX3QARn/ROvJoA//9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2570,7 +2570,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.25164683068557 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.26069457477168 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2950,7 +2950,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone America/Denver</span>
-                <span>Last updated Sat, 08 May 2021 09:16:21 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Sat, 08 May 2021 10:17:35 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
