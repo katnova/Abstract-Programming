@@ -2554,7 +2554,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.93075244228818 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.93938810391299 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2655,7 +2655,7 @@
                   Developer
                   
                     <span class="gh">
-                      ranked 4.32m out of 73m users
+                      ranked 4.33m out of 73m users
                     </span>
                   
                 </div>
@@ -2934,7 +2934,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sun, 27 Jun 2021 16:20:43 (timezone America/Denver) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sun, 27 Jun 2021 17:19:17 (timezone America/Denver) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
