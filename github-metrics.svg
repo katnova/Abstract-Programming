@@ -1720,7 +1720,7 @@ How it is now: `'* '+this.server_info.city+', '+this.server_info.country+' *'` -
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.21m out of 89m users</span>
+                                    <span class="gh">ranked 3.49m out of 89m users</span>
                                 </div>
                                 <div class="text">Published 12 public repositories</div>
                             </div>
@@ -2101,7 +2101,7 @@ How it is now: `'* '+this.server_info.city+', '+this.server_info.country+' *'` -
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2022, 20:33:22 (timezone America/Denver) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 21:18:01 (timezone America/Denver) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
